@@ -24,7 +24,7 @@ return {
         },
       },
       window = {
-        position = 'float',
+        position = 'current',
         mappings = {
           ['<C-c>'] = 'cancel',
         },
